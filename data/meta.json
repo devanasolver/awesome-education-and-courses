@@ -1,0 +1,54 @@
+{
+ "categories": [
+  {
+   "id": "lms",
+   "title": "Learning management systems",
+   "anchor": "learning-management-systems",
+   "blurb": "Host courses and track learners."
+  },
+  {
+   "id": "author",
+   "title": "Course authoring and interactive content",
+   "anchor": "course-authoring-and-interactive-content",
+   "blurb": "Make lessons, slides and exercises."
+  },
+  {
+   "id": "flashcards",
+   "title": "Flashcards and spaced repetition",
+   "anchor": "flashcards-and-spaced-repetition",
+   "blurb": "Remember what you learn."
+  },
+  {
+   "id": "quiz",
+   "title": "Quizzes and assessment",
+   "anchor": "quizzes-and-assessment",
+   "blurb": "Test and grade."
+  },
+  {
+   "id": "classroom",
+   "title": "Classroom and school tools",
+   "anchor": "classroom-and-school-tools",
+   "blurb": "Run classes and communicate."
+  },
+  {
+   "id": "ai",
+   "title": "AI tutors and study helpers",
+   "anchor": "ai-tutors-and-study-helpers",
+   "blurb": "Always check answers against a trusted source."
+  },
+  {
+   "id": "code",
+   "title": "Learn to code",
+   "anchor": "learn-to-code",
+   "blurb": "Interactive coding practice."
+  },
+  {
+   "id": "video",
+   "title": "Lecture video and captions",
+   "anchor": "lecture-video-and-captions",
+   "blurb": "Record and caption lessons."
+  }
+ ],
+ "header": "<h1 align=\"center\">Awesome Education and Course Tools</h1>\n\n<p align=\"center\"><img src=\"assets/banner.png\" alt=\"Awesome Education and Course Tools\" width=\"100%\"></p>\n\n<p align=\"center\">\n<a href=\"https://awesome.re\"><img src=\"https://awesome.re/badge.svg\" alt=\"Awesome\"></a>\n<img src=\"https://img.shields.io/badge/PRs-welcome-brightgreen\" alt=\"PRs welcome\">\n<img src=\"https://img.shields.io/badge/license-CC0--1.0-blue\" alt=\"License CC0 1.0\">\n<a href=\"https://github.com/devanasolver/awesome-education-and-courses/commits/main\"><img src=\"https://img.shields.io/github/last-commit/devanasolver/awesome-education-and-courses\" alt=\"Last commit\"></a>\n</p>\n\n<p align=\"center\">\n<a href=\"https://github.com/devanasolver\"><img src=\"https://img.shields.io/badge/Follow-@devanasolver-181717?style=for-the-badge&logo=github\" alt=\"Follow on GitHub\"></a>\n<a href=\"https://github.com/devanasolver/awesome-education-and-courses/stargazers\"><img src=\"https://img.shields.io/github/stars/devanasolver/awesome-education-and-courses?style=for-the-badge&logo=github&label=Star%20this%20list\" alt=\"Star this list\"></a>\n<a href=\"https://buymeacoffee.com/isaac49\"><img src=\"https://img.shields.io/badge/Buy%20me%20a%20coffee-isaac49-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black\" alt=\"Buy me a coffee\"></a>\n</p>\n\n> Open-source learning platforms, course builders, flashcards, quiz tools, classroom software and AI tutors. Every entry shows its license.\n\n**Rules of this list:** every repo exists, is public, is not archived, states a license and has had a commit in the last year. One plain sentence each. Star counts and claims are the authors' own, we did not test every tool. Checked 2026-10-18. See [CONTRIBUTING.md](CONTRIBUTING.md).",
+ "footer": "## How to choose\n\n- **Check accessibility.** Captions and keyboard use matter for learners.\n- **Protect student data.** Check FERPA, GDPR and local rules.\n- **Check the license** if you sell courses.\n- **Test with a small group** before a full class.\n\n## Contributing\n\nSee [CONTRIBUTING.md](CONTRIBUTING.md). One entry per pull request, plain words, real sources only.\n\n## About\n\nMaintained by [@devanasolver](https://github.com/devanasolver). Listings follow the rules in CONTRIBUTING.\n\n## Sponsor me\n\nIf this list is useful, [buy me a coffee](https://buymeacoffee.com/isaac49).\n"
+}

@@ -1,0 +1,330 @@
+[
+  {
+    "repo": "gradio-app/gradio",
+    "category": "ai",
+    "description": "Build and share machine learning demos in Python.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "Khan/perseus",
+    "category": "ai",
+    "description": "Khan Academy's exercise and content renderer.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "khoj-ai/khoj",
+    "category": "ai",
+    "description": "Self-hostable AI second brain that searches your notes.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-02"
+  },
+  {
+    "repo": "Mintplex-Labs/anything-llm",
+    "category": "ai",
+    "description": "All-in-one app to chat with documents using any model.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "open-webui/open-webui",
+    "category": "ai",
+    "description": "Self-hosted web interface for local and hosted language models.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "category": "ai",
+    "description": "Turn Python scripts into shareable web apps.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "h5p/h5p-php-library",
+    "category": "author",
+    "description": "Library for creating and sharing interactive HTML5 content.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-08"
+  },
+  {
+    "repo": "hakimel/reveal.js",
+    "category": "author",
+    "description": "HTML presentation framework for slides and lessons.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-30"
+  },
+  {
+    "repo": "jupyter-book/jupyter-book",
+    "category": "author",
+    "description": "Build books and documents from computational content.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "jupyter/notebook",
+    "category": "author",
+    "description": "Interactive notebooks for code, text and results.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "marp-team/marp",
+    "category": "author",
+    "description": "Markdown presentation ecosystem.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-07-29"
+  },
+  {
+    "repo": "quarto-dev/quarto-cli",
+    "category": "author",
+    "description": "Scientific and technical publishing system.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "slidevjs/slidev",
+    "category": "author",
+    "description": "Presentation slides for developers, written in Markdown.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-02"
+  },
+  {
+    "repo": "bigbluebutton/bigbluebutton",
+    "category": "classroom",
+    "description": "Open-source web conferencing for online learning.",
+    "license": "LGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "frappe/education",
+    "category": "classroom",
+    "description": "Education module for ERPNext to manage schools.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "jitsi/jitsi-meet",
+    "category": "classroom",
+    "description": "Secure, simple and scalable video conferences.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "nextcloud/server",
+    "category": "classroom",
+    "description": "Self-hosted cloud for files, calendar and docs.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "oppia/oppia",
+    "category": "classroom",
+    "description": "Free interactive lessons for learning.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "exercism/website",
+    "category": "code",
+    "description": "Website for Exercism, free coding practice in many languages.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "freeCodeCamp/freeCodeCamp",
+    "category": "code",
+    "description": "Free coding curriculum and platform.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "leachim6/hello-world",
+    "category": "code",
+    "description": "Hello World in many programming languages.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-01-19"
+  },
+  {
+    "repo": "microsoft/generative-ai-for-beginners",
+    "category": "code",
+    "description": "21 lessons on building generative AI applications.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "microsoft/Web-Dev-For-Beginners",
+    "category": "code",
+    "description": "24 lessons to learn web development.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "TheOdinProject/curriculum",
+    "category": "code",
+    "description": "Free coding curriculum from The Odin Project.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "ankidroid/Anki-Android",
+    "category": "flashcards",
+    "description": "Anki flashcards on Android.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "ankitects/anki",
+    "category": "flashcards",
+    "description": "Powerful, intelligent flashcards.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "mnemosyne-proj/mnemosyne",
+    "category": "flashcards",
+    "description": "Spaced repetition flashcard program.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-04-18"
+  },
+  {
+    "repo": "open-spaced-repetition/free-spaced-repetition-scheduler",
+    "category": "flashcards",
+    "description": "Free spaced repetition scheduler algorithm.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-04-21"
+  },
+  {
+    "repo": "open-spaced-repetition/fsrs4anki",
+    "category": "flashcards",
+    "description": "Spaced repetition algorithm for Anki.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-14"
+  },
+  {
+    "repo": "chamilo/chamilo-lms",
+    "category": "lms",
+    "description": "Open-source learning management system.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "frappe/lms",
+    "category": "lms",
+    "description": "Easy to use, open-source learning management system.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "instructure/canvas-lms",
+    "category": "lms",
+    "description": "Open-source learning management system from Instructure.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-04-30"
+  },
+  {
+    "repo": "moodle/moodle",
+    "category": "lms",
+    "description": "Open-source learning management system used worldwide.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "openedx/openedx-platform",
+    "category": "lms",
+    "description": "Open edX learning platform for online courses.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "formbricks/formbricks",
+    "category": "quiz",
+    "description": "Open-source survey and experience management platform.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "heyform/heyform",
+    "category": "quiz",
+    "description": "Open-source form builder for surveys and quizzes.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "LimeSurvey/LimeSurvey",
+    "category": "quiz",
+    "description": "Open-source survey tool.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "obsproject/obs-studio",
+    "category": "video",
+    "description": "Free software for video recording and live streaming.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "openai/whisper",
+    "category": "video",
+    "description": "General-purpose speech recognition model for captions.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-31"
+  },
+  {
+    "repo": "OpenShot/openshot-qt",
+    "category": "video",
+    "description": "Easy video editor, useful for lecture videos.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "SubtitleEdit/subtitleedit",
+    "category": "video",
+    "description": "Free editor for video subtitles.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  }
+]
